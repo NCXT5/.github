@@ -1,9 +1,8 @@
 <svg width="480" height="270" viewBox="0 0 480 270" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="480" height="270" fill="#181818"/>
 <path d="M261 149V127H281L287 133H267V143H287L281 149H261Z" fill="white"/>
 <path d="M242 127H236V153L242 159V127Z" fill="white"/>
 <path d="M253 149H259V112L253 118V149Z" fill="white"/>
-<path d="M253 149L242 136V127L253 140V149Z" fill="white"/>
+<path d="M253 149L242 136L236 127H242L253 140L259 149H253Z" fill="white"/>
 <path d="M306 149L284 127H293L315 149H306Z" fill="white"/>
 <path d="M283 159L315 127H306L274 159H283Z" fill="white"/>
 <path d="M312 133L318 127H355L349 133H335V149H329V133H312Z" fill="white"/>
